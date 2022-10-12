@@ -1,0 +1,17 @@
+{
+    "name": "vote-Token",
+    "tokenId":"4",
+    "description": "voting test",
+    "image": "https://ipfs.moralis.io:2053/ipfs/QmXT1G1bQWnYxpD6fLNzSGzjPjuMoPbRktVk3WLNnWNroY/AMB",
+    "metadataSrc": "https://raw.githubusercontent.com/NutiDAODEV1/votingTest/main/votingWeights",
+    "attributes": [
+        {
+            "trait_type": "SSR Validator",
+            "value": ""
+        },
+        {
+            "trait_type": "DAO Community Node Relations",
+            "value": ""
+        }
+    ]
+}
